@@ -1,1 +1,3 @@
 # geoeconomicsDemo
+
+用jupyter notebook展示了如何用Python和pandas对数据进行预处理，包括了获取网页上的可以下载下来的矢量地图，如何将使用Arcmap工具将表格中的数据转换为Arcmap中的point,line,polygon，如何计算地球表面的距离和计算一点到点阵的最短距离等。
